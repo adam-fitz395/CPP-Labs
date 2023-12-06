@@ -1,0 +1,19 @@
+3
+What is the capital of France?
+Paris
+Berlin
+Madrid
+Rome
+1
+Which of the following is a mammal?
+Fish
+Bird
+Cat
+Spider
+3
+What is the largest planet in our solar system?
+Mars
+Venus
+Jupiter
+Saturn
+3
